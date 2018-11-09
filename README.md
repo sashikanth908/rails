@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# SashikanthRepository
+>>>>>>> 390b17be1214da2d5a8c92c1ddb0af01101a5cb6
