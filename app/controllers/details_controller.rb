@@ -5,7 +5,7 @@ class DetailsController < ApplicationController
   # GET /details.json
   def index
     #@details = Detail.all
-    @details = Detail.where("deleted_at= ?", "nil").all
+    @details = Detail.where("deleted_at IS ?", nil).all
   end
 
   # GET /details/1
